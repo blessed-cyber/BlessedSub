@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="BlessedSub.png" width="800px" alt="BlessedScan Logo">
+    <img src="BlessedSub.png" width="800px" alt="BlessedSub Logo">
   </p>
   
   
