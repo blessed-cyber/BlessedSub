@@ -22,7 +22,6 @@ Developed by Team Blessed
 """, "red")
 
 
-
 def check_subdomain(subdomain):
     try:
       
